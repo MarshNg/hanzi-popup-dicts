@@ -6,5 +6,21 @@
     "url": "https://github.com/MarshNg/hanzi-popup-dicts/releases/download/v1.0/HanViet.Final.zip",
     "size_mb": 1,
     "lang": "zh"
+  },
+  {
+    "id": "en-en-dict",
+    "title": "English Dictionary (EN→EN)",
+    "description": "543k headwords, 1M senses — WordNet + IPA (CC BY 4.0)",
+    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/en-en-dict.zip",
+    "size_mb": 32,
+    "lang": "en"
+  },
+  {
+    "id": "en-vi-dict",
+    "title": "English–Vietnamese Dictionary (EN→VI)",
+    "description": "103k entries — FVDP (GPL v2)",
+    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/en-vi-dict.zip",
+    "size_mb": 4,
+    "lang": "en"
   }
 ]
