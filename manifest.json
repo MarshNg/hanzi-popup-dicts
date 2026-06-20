@@ -2,7 +2,7 @@
   {
     "id": "hanviet-final",
     "title": "HanViet Final (Hán–Việt)",
-    "description": "Từ điển Hán–Việt tổng hợp",
+    "description": "Comprehensive Chinese–Vietnamese dictionary",
     "url": "https://github.com/MarshNg/hanzi-popup-dicts/releases/download/v1.0/HanViet.Final.zip",
     "size_mb": 1,
     "lang": "zh"
@@ -26,7 +26,7 @@
   {
     "id": "cedict-en",
     "title": "CC-CEDICT Chinese–English",
-    "description": "CC-CEDICT: từ điển Trung–Anh, ~199,000 entries",
+    "description": "~199,000 entries (CC BY-SA 4.0)",
     "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/cedict-en.zip",
     "size_mb": 5,
     "lang": "zh"
@@ -34,7 +34,7 @@
   {
     "id": "cedict-fr",
     "title": "CFDICT Chinese–French",
-    "description": "CFDICT: từ điển Trung–Pháp, ~89,000 entries",
+    "description": "~89,000 entries (CC BY-SA 4.0)",
     "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/cedict-fr.zip",
     "size_mb": 2,
     "lang": "zh"
@@ -42,7 +42,7 @@
   {
     "id": "cedict-vi",
     "title": "CVDICT Chinese–Vietnamese",
-    "description": "CVDICT: từ điển Trung–Việt, ~199,000 entries",
+    "description": "~199,000 entries (CC BY-SA 4.0)",
     "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/cedict-vi.zip",
     "size_mb": 5,
     "lang": "zh"
