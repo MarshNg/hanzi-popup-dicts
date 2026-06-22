@@ -3,7 +3,7 @@
     "id": "hanviet-final",
     "title": "HanViet Final (Hán–Việt)",
     "description": "Comprehensive Chinese–Vietnamese dictionary",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/releases/download/v1.0/HanViet.Final.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/releases/download/v1.0/HanViet.Final.zip",
     "size_mb": 1,
     "lang": "zh"
   },
@@ -11,7 +11,7 @@
     "id": "en-en-dict",
     "title": "English Dictionary (EN→EN)",
     "description": "543k headwords, 1M senses — WordNet + IPA (CC BY 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/en-en-dict.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/en-en-dict.zip",
     "size_mb": 32,
     "lang": "en"
   },
@@ -19,7 +19,7 @@
     "id": "en-vi-dict",
     "title": "English–Vietnamese Dictionary (EN→VI)",
     "description": "103k entries — FVDP (GPL v2)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/en-vi-dict.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/en-vi-dict.zip",
     "size_mb": 4,
     "lang": "en"
   },
@@ -27,7 +27,7 @@
     "id": "cedict-en",
     "title": "CC-CEDICT Chinese–English",
     "description": "~199,000 entries (CC BY-SA 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/cedict-en.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/cedict-en.zip",
     "size_mb": 5,
     "lang": "zh"
   },
@@ -35,7 +35,7 @@
     "id": "cedict-fr",
     "title": "CFDICT Chinese–French",
     "description": "~89,000 entries (CC BY-SA 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/cedict-fr.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/cedict-fr.zip",
     "size_mb": 2,
     "lang": "zh"
   },
@@ -43,7 +43,7 @@
     "id": "cedict-vi",
     "title": "CVDICT Chinese–Vietnamese",
     "description": "~199,000 entries (CC BY-SA 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/cedict-vi.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/cedict-vi.zip",
     "size_mb": 5,
     "lang": "zh"
   },
@@ -51,7 +51,7 @@
     "id": "jitendex",
     "title": "Jitendex Japanese–English",
     "description": "432k entries — JMdict (CC BY-SA 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/jitendex.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/jitendex.zip",
     "size_mb": 39,
     "lang": "ja"
   },
@@ -59,7 +59,7 @@
     "id": "jmdict-english",
     "title": "JMdict Japanese–English",
     "description": "~400k entries — EDRDG (CC BY-SA 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/JMdict_english.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/JMdict_english.zip",
     "size_mb": 15,
     "lang": "ja"
   },
@@ -67,7 +67,7 @@
     "id": "jmnedict",
     "title": "JMnedict Japanese Names",
     "description": "~700k proper names — EDRDG (CC BY-SA 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/JMnedict.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/JMnedict.zip",
     "size_mb": 11,
     "lang": "ja"
   },
@@ -75,7 +75,7 @@
     "id": "kanjidic-en",
     "title": "KANJIDIC English",
     "description": "13k kanji with readings & meanings — EDRDG (CC BY-SA 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/KANJIDIC_english.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/KANJIDIC_english.zip",
     "size_mb": 1,
     "lang": "ja"
   },
@@ -83,7 +83,7 @@
     "id": "kanjidic-fr",
     "title": "KANJIDIC French",
     "description": "13k kanji with French meanings — EDRDG (CC BY-SA 4.0)",
-    "url": "https://github.com/MarshNg/hanzi-popup-dicts/raw/main/KANJIDIC_french.zip",
+    "url": "https://github.com/MarshNg/yomilens-dictionaries/raw/main/KANJIDIC_french.zip",
     "size_mb": 1,
     "lang": "ja"
   }
